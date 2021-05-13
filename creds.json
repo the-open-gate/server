@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "the-open-gate",
+  "private_key_id": "2b245965a9e0af57571f9045cef33f3400551331",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDQ/SpQ3DUhNQXm\nkefeix46PC7ZgzNh54VBHod0iAjtl88L47CCNQSMY4uUwZMDXBWH1flJOM3rXC4F\ns8qrjU93qFVKDjSwCnto7iA8pDk93dP+wkwH6amBp+VpXhb1avbfRfoWP47jh8QP\nwzfL1cTGE7mZ7eCAAxLaUEqKkr8ogySzeImWVZrfIgVx0GbKV0sVLA4idQlJIcp/\nzpVnfnD89S8g6MrzDK+gQIydsjC3p+jPEQ6xVAvj2Rl93W0G5Am8cXvOzet35vpy\nPZmL9zHmT5rqSQEXurGDNZcW4QdAM1C3sJME13aidgnVd8WSN9NJinIbNfVv7WUp\nCWThD9NdAgMBAAECggEAPoiiUtOxaiBNhbJ+6Q5DmzVK53bktxTpwJR7/5h842sb\nXvlgZXWryL44k+hgLw8suhqCnzBKHXTVqIslx7Ne5fUOoDwj89EPIFSwfLS/FA3+\nUyqcSXnXaJ5ufNrUj9bTy/dKX8Hg5aBIQFcvqORsHsDkNnUBSgyhZYXE6DYE0P/y\nXOB4Wqa2YTmfoGG/5iO35PNB8XQUhumqLZGLXtisChUwultfzroBnjOKaBWa7YJf\nlik0/dathUeBZAfDsNmQgu+vRAafby3Ln4YFRshqyBCpC5JhaeSAbFDcyQPThenL\nYGhgl9EmEzjyd30GnUT7BGxZQoRRqSJRadgLSj9EmQKBgQDoAbl/nFUs1cTZncrr\nHl2oelPVd8uSDAdurQc4s1yRPDny3DzH+6X6hg7OgMm+JMAZaCY8b80UWWIpngiC\nSb8HMcSL9I6Fq0oZrdcmawgKznxLEBDLq5epKIQXzsVlSRzvT6l6GIrdqNMHzmRx\n/wrAoOPjoM/6Tty1613qD+fB0wKBgQDmmg3suD62dtA5F3F+LgDrT1/LXVORJu8O\nNf8/38KXG38sgRZMuS+CG8WXNxhllUOzMnrS/934j0gJSNqIt5fR8jIXQUaVr52Z\nPLCJd7LmBdfx4fSSu504H5DEoQ3C/yNQVA61Sb9FL6SoJ4J4wB17Y+neue1oHaUo\n9aRPoPOoDwKBgEvW3HtRcCpSyqFUSlOnPnhnXGYoXbwlAHz2RKkNQJIdPNgdlCTP\nJweIsOhiAxCL1Nu5Rt50sXYYbdUq2p80WiSQ6S3SyI/7WSKhx/XAAQX/T3P+EW9y\nbQYXv25E4hPk3XeA8+Z8hVBF8o3Xss/szef/796l37Zz9wPkp3NutZSPAoGAarwX\ngd/ttwrbafF96IdmiYPdtQVnbqH0uEEp+eiZ6tMhU/oT1kNIyBIOrOUld69U/JZ6\n3zrrBOdc0l9UNz+zF8vgf38JKrN0YL8EfzxWI73ErAKH73rDVHzXxws8kWsCb2XY\nwPR3gZCByAsxiq5xdvFSCHNKfYxrK8A241x+KuUCgYB4i3S/yJxqu3fxYCbAkT8V\nhXFAzkLIZ5bcYDkHLvPXPvfj3ddSOMJ8EhPMl58gqFhK+rIgTKOTfp8sav4x/cYI\ngoJCF8Np0vtmYT3yzdXBdJcQcjbejhbz7deM35I1gntwtGomVP5yFDzsyFRFcMpt\nwkW7NhTNX2K7GC6dCIezsA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "the-open-gate-service@the-open-gate.iam.gserviceaccount.com",
+  "client_id": "108150368711987448279",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/the-open-gate-service%40the-open-gate.iam.gserviceaccount.com"
+}
