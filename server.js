@@ -79,6 +79,7 @@ app.post(
       "occupation",
       "intrests",
       "area_of_speacialization",
+      "method_of_communication",
     ];
 
     let formattedObj = {};
